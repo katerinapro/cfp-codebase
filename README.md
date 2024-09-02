@@ -112,3 +112,4 @@ Snyk.io was utilized as a security tool to continuously scan the solution for vu
 # Practical case: Deployable production environment
 
 Diagram:
+[PDF Diagram](PracticalCaseDiagram.pdf)
